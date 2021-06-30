@@ -15,3 +15,4 @@ RuntimeError: no running event loop
 
 using `asgiref==3.3.4` works fine
 
+My setup: python 3.8.4, MacOS, pyenv
